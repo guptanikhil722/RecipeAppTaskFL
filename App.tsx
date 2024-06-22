@@ -37,7 +37,7 @@ function App(): React.JSX.Element {
 
   return (
     <SafeAreaView style={{flex:1}}>
-      <Text style={{color: 'red'}}>My name is nikhil</Text>
+     
       <BottomTabs/>
       {/* <StatusBar
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
